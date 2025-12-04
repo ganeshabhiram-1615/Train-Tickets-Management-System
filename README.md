@@ -1,5 +1,17 @@
 # Train-Tickets-Management-System
 A simple C program that allows users to book, view, and cancel train tickets. It uses menus, structures, and file handling to manage passenger and train details, making it useful for learning basic C programming concepts.
+
+The purpose of this project is to demonstrate how C language can be used to develop a real-world, menu-driven application that manages train information, ticket booking, cancellation, and passenger records.
+This project reflects the fundamental programming concepts like structures, file handling, functions, arrays, and user interaction using a console interface.
+
+The main objectives of developing this project are:
+
+1.To design a simple ticket booking system using C.
+2.To store and manage train-related data.
+3.To allow users to book, cancel, and view tickets.
+4.To implement file handling for storing records.
+5.To provide a user-friendly, menu-driven interface.
+
 Project Title:
 
 Train Ticket Management System in C
